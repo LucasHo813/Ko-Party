@@ -247,7 +247,13 @@ footer ul li a{
     #index-intro {
         text-align: center;
     }
-
+    
+    .bg-image {
+        background: linear-gradient(rgba(250,250,250, 0.5), rgba(250,250,250, 0.8)), url(../pictures/bg.jpg);
+        background-size: cover;
+        background-position: center;
+    }
+    
     #second h3 {
         margin-bottom: 80px;
         font-size: 31px;
