@@ -49,7 +49,7 @@ p.lead{
 
 .bg-image {
     background: linear-gradient(rgba(250,250,250, 0.5),
-                rgba(250,250,250, 0.8)), url('/pictures/bg.jpg');
+                rgba(250,250,250, 0.8)), url('../pictures/bg.jpg');
     background-size: cover;
 }
 
