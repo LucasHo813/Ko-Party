@@ -281,6 +281,14 @@ footer ul li a{
     border: 1px solid #707070;
 }
 
+.flex-direction-nav a:before {
+    font-size: 30px;
+}
+
+#jslider {
+    padding-bottom: 80px;
+}
+
 @media only screen and (max-width: 768px) {
     .container {
         max-width: 100%;
